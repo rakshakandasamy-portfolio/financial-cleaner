@@ -4,5 +4,5 @@ __pycache__/
 venv/
 .env
 data/*.xlsx
-data/*.csv
-!data/.gitkeep
+!data/budgetwise_finance_dataset.csv
+!data/budgetwise_synthetic_dirty.csv
